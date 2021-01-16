@@ -46,7 +46,7 @@
 	],
 	"minimumCoreVersion": "0.7.0",
 	"compatibleCoreVersion": "0.7.9",
-	"minimumSystemVersion": 1.1.0,
+	"minimumSystemVersion": "1.1.0",
 	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/issues",
 	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases",
 	"download": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/download/v0.11.4/module.zip",
