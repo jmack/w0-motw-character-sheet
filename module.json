@@ -18,39 +18,14 @@
 			"path": "lang/en.json"
 		}
 	],
-	"media": [
-		{
-			"type": "cover",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/cover-image.png"
-		},
-		{
-			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/main-view.png"
-		},
-		{
-			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/inventory.png"
-		},
-		{
-			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/spellbook.png"
-		},
-		{
-			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/features.png"
-		},
-		{
-			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/biography.png"
-		}
-	],
+	"media": [ ],
 	"minimumCoreVersion": "0.7.0",
 	"compatibleCoreVersion": "0.7.9",
 	"minimumSystemVersion": "1.1.0",
-	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/issues",
-	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases",
-	"download": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/download/v0.11.4/module.zip",
-	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/latest/download/module.json",
-	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/README.md",
-	"url": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet"
+	"bugs": "https://github.com/jmack/w0-motw-character-sheet/issues",
+	"changelog": "https://github.com/jmack/w0-motw-character-sheet/releases",
+	"download": "https://github.com/jmack/w0-motw-character-sheet/releases/download/v0.0.1/module.zip",
+	"manifest": "https://github.com/jmack/w0-motw-character-sheet/releases/latest/download/module.json",
+	"readme": "https://raw.githubusercontent.com/jmack/w0-motw-character-sheet/master/README.md",
+	"url": "https://github.com/jmack/w0-motw-character-sheet"
 }
