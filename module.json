@@ -1,0 +1,56 @@
+{
+	"name": "w0-motw-character-sheet",
+	"title": "wlan0's Monster of the Week Character Sheet",
+	"description": "A prettier character sheet for Dave Bort's implementation of Evil Hat's Monster of the Week system",
+	"systems": ["monsterweek"],
+	"version": "0.0.1",
+	"author": "James Mack (wlan0)",
+	"esmodules": [
+		"foundryvtt-w0-motw-character-sheet.js"
+	],
+	"styles": [
+		"foundryvtt-w0-motw-character-sheet.css"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"media": [
+		{
+			"type": "cover",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/cover-image.png"
+		},
+		{
+			"type": "screenshot",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/main-view.png"
+		},
+		{
+			"type": "screenshot",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/inventory.png"
+		},
+		{
+			"type": "screenshot",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/spellbook.png"
+		},
+		{
+			"type": "screenshot",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/features.png"
+		},
+		{
+			"type": "screenshot",
+			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/readme-img/biography.png"
+		}
+	],
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.7.9",
+	"minimumSystemVersion": 1.1.0,
+	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/issues",
+	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases",
+	"download": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/download/v0.11.4/module.zip",
+	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/releases/latest/download/module.json",
+	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet/master/README.md",
+	"url": "https://github.com/ElfFriend-DnD/foundryvtt-compactBeyond5eSheet"
+}
